@@ -1,7 +1,7 @@
 Hi 👋 My name is Pet Thanawat
 =============================
 
-Developer
+Full Stack Developer
 ---------
 
 Senior AI Whisperer
