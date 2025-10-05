@@ -7,7 +7,7 @@ Full Stack Developer
 Senior AI Whisperer
 
 * 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [pettnw.com](http://pettnw.com)
+* 🖥️  See my web at [pettnw.com](http://pettnw.com)
 * ✉️  You can contact me at [pachtnw@hotmail.com](mailto:pachtnw@hotmail.com)
 * 🧠  I'm learning AI Agent
 
