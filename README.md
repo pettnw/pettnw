@@ -9,7 +9,7 @@ Senior AI Whisperer
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [pettnw.com](http://pettnw.com)
 * ✉️  You can contact me at [pachtnw@hotmail.com](mailto:pachtnw@hotmail.com)
-* 🧠  I'm learning GO , AI Agent
+* 🧠  I'm learning AI Agent
 
 ### Skills
 
