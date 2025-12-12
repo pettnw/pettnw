@@ -4,7 +4,7 @@ Hi 👋 My name is Pet Thanawat
 Full Stack Developer
 ---------
 
-Senior AI Whisperer
+Senior Prompt Engineer
 
 * 🌍  I'm based in Bangkok
 * 🖥️  See my web at [pettnw.com](http://pettnw.com)
