@@ -4,8 +4,6 @@ Hi 👋 My name is Pet Thanawat
 AI-Augmented Software Engineer
 ---------
 
-Senior Prompt Engineer
-
 * 🌍  I'm based in Bangkok
 * 🖥️  See my web at [pettnw.com](http://pettnw.com)
 * ✉️  You can contact me at [pachtnw@hotmail.com](mailto:pachtnw@hotmail.com)
