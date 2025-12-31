@@ -1,7 +1,7 @@
 Hi 👋 My name is Pet Thanawat
 =============================
 
-Full Stack Developer
+AI-Augmented Software Engineer
 ---------
 
 Senior Prompt Engineer
